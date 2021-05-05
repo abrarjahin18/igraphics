@@ -1,0 +1,7362 @@
+Enemy showing 0 x 1216 enemyindex 1
+1
+Enemy showing 1 x 1471 enemyindex 1
+1
+Enemy showing 2 x 1623 enemyindex 1
+1
+Enemy showing 0 x 1206 enemyindex 2
+1
+Enemy showing 1 x 1461 enemyindex 2
+1
+Enemy showing 2 x 1613 enemyindex 2
+1
+Enemy showing 0 x 1196 enemyindex 0
+1
+Enemy showing 1 x 1451 enemyindex 0
+1
+Enemy showing 2 x 1603 enemyindex 0
+1
+Enemy showing 0 x 1186 enemyindex 1
+2
+Enemy showing 1 x 1441 enemyindex 1
+2
+Enemy showing 2 x 1593 enemyindex 1
+2
+Enemy showing 0 x 1176 enemyindex 2
+2
+Enemy showing 1 x 1431 enemyindex 2
+2
+Enemy showing 2 x 1583 enemyindex 2
+2
+Enemy showing 0 x 1166 enemyindex 0
+2
+Enemy showing 1 x 1421 enemyindex 0
+2
+Enemy showing 2 x 1573 enemyindex 0
+2
+Enemy showing 0 x 1156 enemyindex 1
+2
+Enemy showing 1 x 1411 enemyindex 1
+2
+Enemy showing 2 x 1563 enemyindex 1
+2
+Enemy showing 0 x 1146 enemyindex 2
+2
+Enemy showing 1 x 1401 enemyindex 2
+2
+Enemy showing 2 x 1553 enemyindex 2
+2
+Enemy showing 0 x 1136 enemyindex 0
+2
+Enemy showing 1 x 1391 enemyindex 0
+2
+Enemy showing 2 x 1543 enemyindex 0
+2
+Enemy showing 0 x 1126 enemyindex 1
+2
+Enemy showing 1 x 1381 enemyindex 1
+2
+Enemy showing 2 x 1533 enemyindex 1
+2
+Enemy showing 0 x 1116 enemyindex 2
+2
+Enemy showing 1 x 1371 enemyindex 2
+2
+Enemy showing 2 x 1523 enemyindex 2
+2
+Enemy showing 0 x 1106 enemyindex 0
+2
+Enemy showing 1 x 1361 enemyindex 0
+2
+Enemy showing 2 x 1513 enemyindex 0
+2
+Enemy showing 0 x 1096 enemyindex 1
+2
+Enemy showing 1 x 1351 enemyindex 1
+2
+Enemy showing 2 x 1503 enemyindex 1
+2
+Enemy showing 0 x 1086 enemyindex 2
+2
+Enemy showing 1 x 1341 enemyindex 2
+2
+Enemy showing 2 x 1493 enemyindex 2
+2
+Enemy showing 0 x 1076 enemyindex 0
+2
+Enemy showing 1 x 1331 enemyindex 0
+2
+Enemy showing 2 x 1483 enemyindex 0
+2
+Enemy showing 0 x 1066 enemyindex 1
+2
+Enemy showing 1 x 1321 enemyindex 1
+2
+Enemy showing 2 x 1473 enemyindex 1
+2
+Enemy showing 0 x 1056 enemyindex 2
+2
+Enemy showing 1 x 1311 enemyindex 2
+2
+Enemy showing 2 x 1463 enemyindex 2
+2
+Enemy showing 0 x 1046 enemyindex 0
+2
+Enemy showing 1 x 1301 enemyindex 0
+2
+Enemy showing 2 x 1453 enemyindex 0
+2
+Enemy showing 0 x 1036 enemyindex 1
+2
+Enemy showing 1 x 1291 enemyindex 1
+2
+Enemy showing 2 x 1443 enemyindex 1
+2
+Enemy showing 0 x 1026 enemyindex 2
+2
+Enemy showing 1 x 1281 enemyindex 2
+2
+Enemy showing 2 x 1433 enemyindex 2
+2
+Enemy showing 0 x 1016 enemyindex 0
+2
+Enemy showing 1 x 1271 enemyindex 0
+2
+Enemy showing 2 x 1423 enemyindex 0
+2
+Enemy showing 0 x 1006 enemyindex 1
+2
+Enemy showing 1 x 1261 enemyindex 1
+2
+Enemy showing 2 x 1413 enemyindex 1
+2
+Enemy showing 0 x 996 enemyindex 2
+2
+Enemy showing 1 x 1251 enemyindex 2
+2
+Enemy showing 2 x 1403 enemyindex 2
+2
+Enemy showing 0 x 986 enemyindex 0
+2
+Enemy showing 1 x 1241 enemyindex 0
+2
+Enemy showing 2 x 1393 enemyindex 0
+2
+Enemy showing 0 x 976 enemyindex 1
+2
+Enemy showing 1 x 1231 enemyindex 1
+2
+Enemy showing 2 x 1383 enemyindex 1
+2
+Enemy showing 0 x 966 enemyindex 2
+2
+Enemy showing 1 x 1221 enemyindex 2
+2
+Enemy showing 2 x 1373 enemyindex 2
+2
+Enemy showing 0 x 956 enemyindex 0
+2
+Enemy showing 1 x 1211 enemyindex 0
+2
+Enemy showing 2 x 1363 enemyindex 0
+2
+Enemy showing 0 x 946 enemyindex 1
+2
+Enemy showing 1 x 1201 enemyindex 1
+2
+Enemy showing 2 x 1353 enemyindex 1
+2
+Enemy showing 0 x 936 enemyindex 2
+2
+Enemy showing 1 x 1191 enemyindex 2
+2
+Enemy showing 2 x 1343 enemyindex 2
+2
+Enemy showing 0 x 926 enemyindex 0
+2
+Enemy showing 1 x 1181 enemyindex 0
+2
+Enemy showing 2 x 1333 enemyindex 0
+2
+Enemy showing 0 x 916 enemyindex 1
+2
+Enemy showing 1 x 1171 enemyindex 1
+2
+Enemy showing 2 x 1323 enemyindex 1
+2
+Enemy showing 0 x 906 enemyindex 2
+2
+Enemy showing 1 x 1161 enemyindex 2
+2
+Enemy showing 2 x 1313 enemyindex 2
+2
+Enemy showing 0 x 896 enemyindex 0
+2
+Enemy showing 1 x 1151 enemyindex 0
+2
+Enemy showing 2 x 1303 enemyindex 0
+2
+Enemy showing 0 x 886 enemyindex 1
+3
+Enemy showing 1 x 1141 enemyindex 1
+3
+Enemy showing 2 x 1293 enemyindex 1
+3
+Enemy showing 0 x 876 enemyindex 2
+3
+Enemy showing 1 x 1131 enemyindex 2
+3
+Enemy showing 2 x 1283 enemyindex 2
+3
+Enemy showing 0 x 866 enemyindex 0
+3
+Enemy showing 1 x 1121 enemyindex 0
+3
+Enemy showing 2 x 1273 enemyindex 0
+3
+Enemy showing 0 x 856 enemyindex 1
+3
+Enemy showing 1 x 1111 enemyindex 1
+3
+Enemy showing 2 x 1263 enemyindex 1
+3
+Enemy showing 0 x 846 enemyindex 2
+3
+Enemy showing 1 x 1101 enemyindex 2
+3
+Enemy showing 2 x 1253 enemyindex 2
+3
+Enemy showing 0 x 836 enemyindex 0
+3
+Enemy showing 1 x 1091 enemyindex 0
+3
+Enemy showing 2 x 1243 enemyindex 0
+3
+Enemy showing 0 x 826 enemyindex 1
+3
+Enemy showing 1 x 1081 enemyindex 1
+3
+Enemy showing 2 x 1233 enemyindex 1
+3
+Enemy showing 0 x 816 enemyindex 2
+3
+Enemy showing 1 x 1071 enemyindex 2
+3
+Enemy showing 2 x 1223 enemyindex 2
+3
+Enemy showing 0 x 806 enemyindex 0
+3
+Enemy showing 1 x 1061 enemyindex 0
+3
+Enemy showing 2 x 1213 enemyindex 0
+3
+Enemy showing 0 x 796 enemyindex 1
+3
+Enemy showing 1 x 1051 enemyindex 1
+3
+Enemy showing 2 x 1203 enemyindex 1
+3
+Enemy showing 0 x 786 enemyindex 2
+3
+Enemy showing 1 x 1041 enemyindex 2
+3
+Enemy showing 2 x 1193 enemyindex 2
+3
+Enemy showing 0 x 776 enemyindex 0
+3
+Enemy showing 1 x 1031 enemyindex 0
+3
+Enemy showing 2 x 1183 enemyindex 0
+3
+Enemy showing 0 x 766 enemyindex 1
+3
+Enemy showing 1 x 1021 enemyindex 1
+3
+Enemy showing 2 x 1173 enemyindex 1
+3
+Enemy showing 0 x 756 enemyindex 2
+3
+Enemy showing 1 x 1011 enemyindex 2
+3
+Enemy showing 2 x 1163 enemyindex 2
+3
+Enemy showing 0 x 746 enemyindex 0
+3
+Enemy showing 1 x 1001 enemyindex 0
+3
+Enemy showing 2 x 1153 enemyindex 0
+3
+Enemy showing 0 x 736 enemyindex 1
+3
+Enemy showing 1 x 991 enemyindex 1
+3
+Enemy showing 2 x 1143 enemyindex 1
+3
+Enemy showing 0 x 726 enemyindex 2
+3
+Enemy showing 1 x 981 enemyindex 2
+3
+Enemy showing 2 x 1133 enemyindex 2
+3
+Enemy showing 0 x 716 enemyindex 0
+3
+Enemy showing 1 x 971 enemyindex 0
+3
+Enemy showing 2 x 1123 enemyindex 0
+3
+Enemy showing 0 x 706 enemyindex 1
+3
+Enemy showing 1 x 961 enemyindex 1
+3
+Enemy showing 2 x 1113 enemyindex 1
+3
+Enemy showing 0 x 696 enemyindex 2
+3
+Enemy showing 1 x 951 enemyindex 2
+3
+Enemy showing 2 x 1103 enemyindex 2
+3
+Enemy showing 0 x 686 enemyindex 0
+3
+Enemy showing 1 x 941 enemyindex 0
+3
+Enemy showing 2 x 1093 enemyindex 0
+3
+Enemy showing 0 x 676 enemyindex 1
+3
+Enemy showing 1 x 931 enemyindex 1
+3
+Enemy showing 2 x 1083 enemyindex 1
+3
+Enemy showing 0 x 666 enemyindex 2
+3
+Enemy showing 1 x 921 enemyindex 2
+3
+Enemy showing 2 x 1073 enemyindex 2
+3
+Enemy showing 0 x 656 enemyindex 0
+3
+Enemy showing 1 x 911 enemyindex 0
+3
+Enemy showing 2 x 1063 enemyindex 0
+3
+Enemy showing 0 x 646 enemyindex 1
+3
+Enemy showing 1 x 901 enemyindex 1
+3
+Enemy showing 2 x 1053 enemyindex 1
+3
+Enemy showing 0 x 636 enemyindex 2
+3
+Enemy showing 1 x 891 enemyindex 2
+3
+Enemy showing 2 x 1043 enemyindex 2
+3
+Enemy showing 0 x 626 enemyindex 0
+3
+Enemy showing 1 x 881 enemyindex 0
+3
+Enemy showing 2 x 1033 enemyindex 0
+3
+Enemy showing 0 x 616 enemyindex 1
+3
+Enemy showing 1 x 871 enemyindex 1
+3
+Enemy showing 2 x 1023 enemyindex 1
+3
+Enemy showing 0 x 606 enemyindex 2
+3
+Enemy showing 1 x 861 enemyindex 2
+3
+Enemy showing 2 x 1013 enemyindex 2
+3
+Enemy showing 0 x 596 enemyindex 0
+3
+Enemy showing 1 x 851 enemyindex 0
+3
+Enemy showing 2 x 1003 enemyindex 0
+3
+Enemy showing 0 x 586 enemyindex 1
+3
+Enemy showing 1 x 841 enemyindex 1
+3
+Enemy showing 2 x 993 enemyindex 1
+3
+Enemy showing 0 x 576 enemyindex 2
+4
+Enemy showing 1 x 831 enemyindex 2
+4
+Enemy showing 2 x 983 enemyindex 2
+4
+Enemy showing 0 x 566 enemyindex 0
+4
+Enemy showing 1 x 821 enemyindex 0
+4
+Enemy showing 2 x 973 enemyindex 0
+4
+Enemy showing 0 x 556 enemyindex 1
+4
+Enemy showing 1 x 811 enemyindex 1
+4
+Enemy showing 2 x 963 enemyindex 1
+4
+Enemy showing 0 x 546 enemyindex 2
+4
+Enemy showing 1 x 801 enemyindex 2
+4
+Enemy showing 2 x 953 enemyindex 2
+4
+Enemy showing 0 x 536 enemyindex 0
+4
+Enemy showing 1 x 791 enemyindex 0
+4
+Enemy showing 2 x 943 enemyindex 0
+4
+Enemy showing 0 x 526 enemyindex 1
+4
+Enemy showing 1 x 781 enemyindex 1
+4
+Enemy showing 2 x 933 enemyindex 1
+4
+Enemy showing 0 x 516 enemyindex 2
+4
+Enemy showing 1 x 771 enemyindex 2
+4
+Enemy showing 2 x 923 enemyindex 2
+4
+Enemy showing 0 x 506 enemyindex 0
+4
+Enemy showing 1 x 761 enemyindex 0
+4
+Enemy showing 2 x 913 enemyindex 0
+4
+Enemy showing 0 x 496 enemyindex 1
+4
+Enemy showing 1 x 751 enemyindex 1
+4
+Enemy showing 2 x 903 enemyindex 1
+4
+Enemy showing 0 x 486 enemyindex 2
+4
+Enemy showing 1 x 741 enemyindex 2
+4
+Enemy showing 2 x 893 enemyindex 2
+4
+Enemy showing 0 x 476 enemyindex 0
+4
+Enemy showing 1 x 731 enemyindex 0
+4
+Enemy showing 2 x 883 enemyindex 0
+4
+Enemy showing 0 x 466 enemyindex 1
+4
+Enemy showing 1 x 721 enemyindex 1
+4
+Enemy showing 2 x 873 enemyindex 1
+4
+Enemy showing 0 x 456 enemyindex 2
+4
+Enemy showing 1 x 711 enemyindex 2
+4
+Enemy showing 2 x 863 enemyindex 2
+4
+Enemy showing 0 x 446 enemyindex 0
+4
+Enemy showing 1 x 701 enemyindex 0
+4
+Enemy showing 2 x 853 enemyindex 0
+4
+Enemy showing 0 x 436 enemyindex 1
+4
+Enemy showing 1 x 691 enemyindex 1
+4
+Enemy showing 2 x 843 enemyindex 1
+4
+Enemy showing 0 x 426 enemyindex 2
+4
+Enemy showing 1 x 681 enemyindex 2
+4
+Enemy showing 2 x 833 enemyindex 2
+4
+Enemy showing 0 x 416 enemyindex 0
+4
+Enemy showing 1 x 671 enemyindex 0
+4
+Enemy showing 2 x 823 enemyindex 0
+4
+Enemy showing 0 x 406 enemyindex 1
+4
+Enemy showing 1 x 661 enemyindex 1
+4
+Enemy showing 2 x 813 enemyindex 1
+4
+Enemy showing 0 x 396 enemyindex 2
+4
+Enemy showing 1 x 651 enemyindex 2
+4
+Enemy showing 2 x 803 enemyindex 2
+4
+Enemy showing 1 x 641 enemyindex 0
+4
+Enemy showing 2 x 793 enemyindex 0
+4
+Enemy showing 1 x 631 enemyindex 1
+4
+Enemy showing 2 x 783 enemyindex 1
+4
+Enemy showing 1 x 621 enemyindex 2
+4
+Enemy showing 2 x 773 enemyindex 2
+4
+Enemy showing 1 x 611 enemyindex 0
+4
+Enemy showing 2 x 763 enemyindex 0
+4
+Enemy showing 1 x 601 enemyindex 1
+4
+Enemy showing 2 x 753 enemyindex 1
+4
+Enemy showing 1 x 591 enemyindex 2
+4
+Enemy showing 2 x 743 enemyindex 2
+4
+Enemy showing 1 x 581 enemyindex 0
+4
+Enemy showing 2 x 733 enemyindex 0
+4
+Enemy showing 1 x 571 enemyindex 1
+4
+Enemy showing 2 x 723 enemyindex 1
+4
+Enemy showing 1 x 561 enemyindex 2
+4
+Enemy showing 2 x 713 enemyindex 2
+4
+Enemy showing 1 x 551 enemyindex 0
+4
+Enemy showing 2 x 703 enemyindex 0
+4
+Enemy showing 1 x 541 enemyindex 1
+4
+Enemy showing 2 x 693 enemyindex 1
+4
+Enemy showing 1 x 531 enemyindex 2
+5
+Enemy showing 2 x 683 enemyindex 2
+5
+Enemy showing 2 x 673 enemyindex 0
+5
+Enemy showing 2 x 663 enemyindex 1
+5
+Enemy showing 2 x 653 enemyindex 2
+5
+Enemy showing 2 x 643 enemyindex 0
+5
+Enemy showing 2 x 633 enemyindex 1
+5
+Enemy showing 2 x 623 enemyindex 2
+5
+Enemy showing 2 x 613 enemyindex 0
+5
+Enemy showing 2 x 603 enemyindex 1
+5
+Enemy showing 0 x 1408 enemyindex 2
+6
+Enemy showing 1 x 1648 enemyindex 2
+6
+Enemy showing 2 x 143 enemyindex 2
+6
+Enemy showing 0 x 1398 enemyindex 0
+6
+Enemy showing 1 x 1638 enemyindex 0
+6
+Enemy showing 2 x 133 enemyindex 0
+6
+Enemy showing 0 x 1388 enemyindex 1
+6
+Enemy showing 1 x 1628 enemyindex 1
+6
+Enemy showing 2 x 123 enemyindex 1
+6
+Enemy showing 0 x 1378 enemyindex 2
+6
+Enemy showing 1 x 1618 enemyindex 2
+6
+Enemy showing 2 x 113 enemyindex 2
+6
+Enemy showing 0 x 1368 enemyindex 0
+6
+Enemy showing 1 x 1608 enemyindex 0
+6
+Enemy showing 2 x 103 enemyindex 0
+6
+Enemy showing 0 x 1358 enemyindex 1
+6
+Enemy showing 1 x 1598 enemyindex 1
+6
+Enemy showing 2 x 93 enemyindex 1
+6
+Enemy showing 0 x 1348 enemyindex 2
+6
+Enemy showing 1 x 1588 enemyindex 2
+6
+Enemy showing 2 x 83 enemyindex 2
+6
+Enemy showing 0 x 1338 enemyindex 0
+6
+Enemy showing 1 x 1578 enemyindex 0
+6
+Enemy showing 2 x 73 enemyindex 0
+6
+Enemy showing 0 x 1328 enemyindex 1
+6
+Enemy showing 1 x 1568 enemyindex 1
+6
+Enemy showing 2 x 63 enemyindex 1
+6
+Enemy showing 0 x 1318 enemyindex 2
+6
+Enemy showing 1 x 1558 enemyindex 2
+6
+Enemy showing 2 x 53 enemyindex 2
+6
+Enemy showing 0 x 1308 enemyindex 0
+7
+Enemy showing 1 x 1548 enemyindex 0
+7
+Enemy showing 2 x 43 enemyindex 0
+7
+Enemy showing 0 x 1298 enemyindex 1
+7
+Enemy showing 1 x 1538 enemyindex 1
+7
+Enemy showing 2 x 33 enemyindex 1
+7
+Enemy showing 0 x 1288 enemyindex 2
+7
+Enemy showing 1 x 1528 enemyindex 2
+7
+Enemy showing 2 x 23 enemyindex 2
+7
+Enemy showing 0 x 1278 enemyindex 0
+7
+Enemy showing 1 x 1518 enemyindex 0
+7
+Enemy showing 2 x 13 enemyindex 0
+7
+Enemy showing 0 x 1268 enemyindex 1
+7
+Enemy showing 1 x 1508 enemyindex 1
+7
+Enemy showing 2 x 3 enemyindex 1
+7
+Enemy showing 0 x 1258 enemyindex 2
+7
+Enemy showing 1 x 1498 enemyindex 2
+7
+Enemy showing 2 x 1784 enemyindex 2
+7
+Enemy showing 0 x 1248 enemyindex 0
+7
+Enemy showing 1 x 1488 enemyindex 0
+7
+Enemy showing 2 x 1774 enemyindex 0
+7
+Enemy showing 0 x 1238 enemyindex 1
+7
+Enemy showing 1 x 1478 enemyindex 1
+7
+Enemy showing 2 x 1764 enemyindex 1
+7
+Enemy showing 0 x 1228 enemyindex 2
+7
+Enemy showing 1 x 1468 enemyindex 2
+7
+Enemy showing 2 x 1754 enemyindex 2
+7
+Enemy showing 0 x 1218 enemyindex 0
+7
+Enemy showing 1 x 1458 enemyindex 0
+7
+Enemy showing 2 x 1744 enemyindex 0
+7
+Enemy showing 0 x 1208 enemyindex 1
+7
+Enemy showing 1 x 1448 enemyindex 1
+7
+Enemy showing 2 x 1734 enemyindex 1
+7
+Enemy showing 0 x 1198 enemyindex 2
+7
+Enemy showing 1 x 1438 enemyindex 2
+7
+Enemy showing 2 x 1724 enemyindex 2
+7
+Enemy showing 0 x 1188 enemyindex 0
+7
+Enemy showing 1 x 1428 enemyindex 0
+7
+Enemy showing 2 x 1714 enemyindex 0
+7
+Enemy showing 0 x 1178 enemyindex 1
+7
+Enemy showing 1 x 1418 enemyindex 1
+7
+Enemy showing 2 x 1704 enemyindex 1
+7
+Enemy showing 0 x 1168 enemyindex 2
+7
+Enemy showing 1 x 1408 enemyindex 2
+7
+Enemy showing 2 x 1694 enemyindex 2
+7
+Enemy showing 0 x 1158 enemyindex 0
+7
+Enemy showing 1 x 1398 enemyindex 0
+7
+Enemy showing 2 x 1684 enemyindex 0
+7
+Enemy showing 0 x 1138 enemyindex 2
+7
+Enemy showing 1 x 1378 enemyindex 2
+7
+Enemy showing 2 x 1664 enemyindex 2
+7
+Enemy showing 0 x 1128 enemyindex 0
+7
+Enemy showing 1 x 1368 enemyindex 0
+7
+Enemy showing 2 x 1654 enemyindex 0
+7
+Enemy showing 0 x 1118 enemyindex 1
+7
+Enemy showing 1 x 1358 enemyindex 1
+7
+Enemy showing 2 x 1644 enemyindex 1
+7
+Enemy showing 0 x 1108 enemyindex 2
+7
+Enemy showing 1 x 1348 enemyindex 2
+7
+Enemy showing 2 x 1634 enemyindex 2
+7
+Enemy showing 0 x 1098 enemyindex 0
+7
+Enemy showing 1 x 1338 enemyindex 0
+7
+Enemy showing 2 x 1624 enemyindex 0
+7
+Enemy showing 0 x 1088 enemyindex 1
+7
+Enemy showing 1 x 1328 enemyindex 1
+7
+Enemy showing 2 x 1614 enemyindex 1
+7
+Enemy showing 0 x 1078 enemyindex 2
+7
+Enemy showing 1 x 1318 enemyindex 2
+7
+Enemy showing 2 x 1604 enemyindex 2
+7
+Enemy showing 0 x 1068 enemyindex 0
+7
+Enemy showing 1 x 1308 enemyindex 0
+7
+Enemy showing 2 x 1594 enemyindex 0
+7
+Enemy showing 0 x 1058 enemyindex 1
+7
+Enemy showing 1 x 1298 enemyindex 1
+7
+Enemy showing 2 x 1584 enemyindex 1
+7
+Enemy showing 0 x 1048 enemyindex 2
+7
+Enemy showing 1 x 1288 enemyindex 2
+7
+Enemy showing 2 x 1574 enemyindex 2
+7
+Enemy showing 0 x 1038 enemyindex 0
+7
+Enemy showing 1 x 1278 enemyindex 0
+7
+Enemy showing 2 x 1564 enemyindex 0
+7
+Enemy showing 0 x 1028 enemyindex 1
+7
+Enemy showing 1 x 1268 enemyindex 1
+7
+Enemy showing 2 x 1554 enemyindex 1
+7
+Enemy showing 0 x 1018 enemyindex 2
+7
+Enemy showing 1 x 1258 enemyindex 2
+7
+Enemy showing 2 x 1544 enemyindex 2
+7
+Enemy showing 0 x 1008 enemyindex 0
+7
+Enemy showing 1 x 1248 enemyindex 0
+7
+Enemy showing 2 x 1534 enemyindex 0
+7
+Enemy showing 0 x 998 enemyindex 1
+8
+Enemy showing 1 x 1238 enemyindex 1
+8
+Enemy showing 2 x 1524 enemyindex 1
+8
+Enemy showing 0 x 988 enemyindex 2
+8
+Enemy showing 1 x 1228 enemyindex 2
+8
+Enemy showing 2 x 1514 enemyindex 2
+8
+Enemy showing 0 x 978 enemyindex 0
+8
+Enemy showing 1 x 1218 enemyindex 0
+8
+Enemy showing 2 x 1504 enemyindex 0
+8
+Enemy showing 0 x 968 enemyindex 1
+8
+Enemy showing 1 x 1208 enemyindex 1
+8
+Enemy showing 2 x 1494 enemyindex 1
+8
+Enemy showing 0 x 958 enemyindex 2
+8
+Enemy showing 1 x 1198 enemyindex 2
+8
+Enemy showing 2 x 1484 enemyindex 2
+8
+Enemy showing 0 x 948 enemyindex 0
+8
+Enemy showing 1 x 1188 enemyindex 0
+8
+Enemy showing 2 x 1474 enemyindex 0
+8
+Enemy showing 0 x 938 enemyindex 1
+8
+Enemy showing 1 x 1178 enemyindex 1
+8
+Enemy showing 2 x 1464 enemyindex 1
+8
+Enemy showing 0 x 928 enemyindex 2
+8
+Enemy showing 1 x 1168 enemyindex 2
+8
+Enemy showing 2 x 1454 enemyindex 2
+8
+Enemy showing 0 x 918 enemyindex 0
+8
+Enemy showing 1 x 1158 enemyindex 0
+8
+Enemy showing 2 x 1444 enemyindex 0
+8
+Enemy showing 0 x 908 enemyindex 1
+8
+Enemy showing 1 x 1148 enemyindex 1
+8
+Enemy showing 2 x 1434 enemyindex 1
+8
+Enemy showing 0 x 898 enemyindex 2
+8
+Enemy showing 1 x 1138 enemyindex 2
+8
+Enemy showing 2 x 1424 enemyindex 2
+8
+Enemy showing 0 x 888 enemyindex 0
+8
+Enemy showing 1 x 1128 enemyindex 0
+8
+Enemy showing 2 x 1414 enemyindex 0
+8
+Enemy showing 0 x 878 enemyindex 1
+8
+Enemy showing 1 x 1118 enemyindex 1
+8
+Enemy showing 2 x 1404 enemyindex 1
+8
+Enemy showing 0 x 868 enemyindex 2
+8
+Enemy showing 1 x 1108 enemyindex 2
+8
+Enemy showing 2 x 1394 enemyindex 2
+8
+Enemy showing 0 x 858 enemyindex 0
+8
+Enemy showing 1 x 1098 enemyindex 0
+8
+Enemy showing 2 x 1384 enemyindex 0
+8
+Enemy showing 0 x 848 enemyindex 1
+8
+Enemy showing 1 x 1088 enemyindex 1
+8
+Enemy showing 2 x 1374 enemyindex 1
+8
+Enemy showing 0 x 838 enemyindex 2
+8
+Enemy showing 1 x 1078 enemyindex 2
+8
+Enemy showing 2 x 1364 enemyindex 2
+8
+Enemy showing 0 x 828 enemyindex 0
+8
+Enemy showing 1 x 1068 enemyindex 0
+8
+Enemy showing 2 x 1354 enemyindex 0
+8
+Enemy showing 0 x 818 enemyindex 1
+8
+Enemy showing 1 x 1058 enemyindex 1
+8
+Enemy showing 2 x 1344 enemyindex 1
+8
+Enemy showing 0 x 808 enemyindex 2
+8
+Enemy showing 1 x 1048 enemyindex 2
+8
+Enemy showing 2 x 1334 enemyindex 2
+8
+Enemy showing 0 x 798 enemyindex 0
+8
+Enemy showing 1 x 1038 enemyindex 0
+8
+Enemy showing 2 x 1324 enemyindex 0
+8
+Enemy showing 0 x 788 enemyindex 1
+8
+Enemy showing 1 x 1028 enemyindex 1
+8
+Enemy showing 2 x 1314 enemyindex 1
+8
+Enemy showing 0 x 778 enemyindex 2
+8
+Enemy showing 1 x 1018 enemyindex 2
+8
+Enemy showing 2 x 1304 enemyindex 2
+8
+Enemy showing 0 x 768 enemyindex 0
+8
+Enemy showing 1 x 1008 enemyindex 0
+8
+Enemy showing 2 x 1294 enemyindex 0
+8
+Enemy showing 0 x 758 enemyindex 1
+8
+Enemy showing 1 x 998 enemyindex 1
+8
+Enemy showing 2 x 1284 enemyindex 1
+8
+Enemy showing 0 x 748 enemyindex 2
+8
+Enemy showing 1 x 988 enemyindex 2
+8
+Enemy showing 2 x 1274 enemyindex 2
+8
+Enemy showing 0 x 738 enemyindex 0
+8
+Enemy showing 1 x 978 enemyindex 0
+8
+Enemy showing 2 x 1264 enemyindex 0
+8
+Enemy showing 0 x 728 enemyindex 1
+8
+Enemy showing 1 x 968 enemyindex 1
+8
+Enemy showing 2 x 1254 enemyindex 1
+8
+Enemy showing 0 x 718 enemyindex 2
+9
+Enemy showing 1 x 958 enemyindex 2
+9
+Enemy showing 2 x 1244 enemyindex 2
+9
+Enemy showing 0 x 708 enemyindex 0
+9
+Enemy showing 1 x 948 enemyindex 0
+9
+Enemy showing 2 x 1234 enemyindex 0
+9
+Enemy showing 0 x 698 enemyindex 1
+9
+Enemy showing 1 x 938 enemyindex 1
+9
+Enemy showing 2 x 1224 enemyindex 1
+9
+Enemy showing 0 x 688 enemyindex 2
+9
+Enemy showing 1 x 928 enemyindex 2
+9
+Enemy showing 2 x 1214 enemyindex 2
+9
+Enemy showing 0 x 678 enemyindex 0
+9
+Enemy showing 1 x 918 enemyindex 0
+9
+Enemy showing 2 x 1204 enemyindex 0
+9
+Enemy showing 0 x 668 enemyindex 1
+9
+Enemy showing 1 x 908 enemyindex 1
+9
+Enemy showing 2 x 1194 enemyindex 1
+9
+Enemy showing 0 x 658 enemyindex 2
+9
+Enemy showing 1 x 898 enemyindex 2
+9
+Enemy showing 2 x 1184 enemyindex 2
+9
+Enemy showing 0 x 648 enemyindex 0
+9
+Enemy showing 1 x 888 enemyindex 0
+9
+Enemy showing 2 x 1174 enemyindex 0
+9
+Enemy showing 0 x 638 enemyindex 1
+9
+Enemy showing 1 x 878 enemyindex 1
+9
+Enemy showing 2 x 1164 enemyindex 1
+9
+Enemy showing 0 x 628 enemyindex 2
+9
+Enemy showing 1 x 868 enemyindex 2
+9
+Enemy showing 2 x 1154 enemyindex 2
+9
+Enemy showing 0 x 618 enemyindex 0
+9
+Enemy showing 1 x 858 enemyindex 0
+9
+Enemy showing 2 x 1144 enemyindex 0
+9
+Enemy showing 0 x 608 enemyindex 1
+9
+Enemy showing 1 x 848 enemyindex 1
+9
+Enemy showing 2 x 1134 enemyindex 1
+9
+Enemy showing 0 x 598 enemyindex 2
+9
+Enemy showing 1 x 838 enemyindex 2
+9
+Enemy showing 2 x 1124 enemyindex 2
+9
+Enemy showing 0 x 588 enemyindex 0
+9
+Enemy showing 1 x 828 enemyindex 0
+9
+Enemy showing 2 x 1114 enemyindex 0
+9
+Enemy showing 0 x 578 enemyindex 1
+9
+Enemy showing 1 x 818 enemyindex 1
+9
+Enemy showing 2 x 1104 enemyindex 1
+9
+Enemy showing 0 x 568 enemyindex 2
+9
+Enemy showing 1 x 808 enemyindex 2
+9
+Enemy showing 2 x 1094 enemyindex 2
+9
+Enemy showing 0 x 558 enemyindex 0
+9
+Enemy showing 1 x 798 enemyindex 0
+9
+Enemy showing 2 x 1084 enemyindex 0
+9
+Enemy showing 0 x 548 enemyindex 1
+9
+Enemy showing 1 x 788 enemyindex 1
+9
+Enemy showing 2 x 1074 enemyindex 1
+9
+Enemy showing 0 x 538 enemyindex 2
+9
+Enemy showing 1 x 778 enemyindex 2
+9
+Enemy showing 2 x 1064 enemyindex 2
+9
+Enemy showing 0 x 528 enemyindex 0
+9
+Enemy showing 1 x 768 enemyindex 0
+9
+Enemy showing 2 x 1054 enemyindex 0
+9
+Enemy showing 0 x 518 enemyindex 1
+9
+Enemy showing 1 x 758 enemyindex 1
+9
+Enemy showing 2 x 1044 enemyindex 1
+9
+Enemy showing 0 x 508 enemyindex 2
+9
+Enemy showing 1 x 748 enemyindex 2
+9
+Enemy showing 2 x 1034 enemyindex 2
+9
+Enemy showing 0 x 498 enemyindex 0
+9
+Enemy showing 1 x 738 enemyindex 0
+9
+Enemy showing 2 x 1024 enemyindex 0
+9
+Enemy showing 0 x 488 enemyindex 1
+9
+Enemy showing 1 x 728 enemyindex 1
+9
+Enemy showing 2 x 1014 enemyindex 1
+9
+Enemy showing 0 x 478 enemyindex 2
+9
+Enemy showing 1 x 718 enemyindex 2
+9
+Enemy showing 2 x 1004 enemyindex 2
+9
+Enemy showing 0 x 468 enemyindex 0
+9
+Enemy showing 1 x 708 enemyindex 0
+9
+Enemy showing 2 x 994 enemyindex 0
+9
+Enemy showing 0 x 458 enemyindex 1
+9
+Enemy showing 1 x 698 enemyindex 1
+9
+Enemy showing 2 x 984 enemyindex 1
+9
+Enemy showing 0 x 448 enemyindex 2
+9
+Enemy showing 1 x 688 enemyindex 2
+9
+Enemy showing 2 x 974 enemyindex 2
+9
+Enemy showing 0 x 438 enemyindex 0
+9
+Enemy showing 1 x 678 enemyindex 0
+9
+Enemy showing 2 x 964 enemyindex 0
+9
+Enemy showing 0 x 428 enemyindex 1
+10
+Enemy showing 1 x 668 enemyindex 1
+10
+Enemy showing 2 x 954 enemyindex 1
+10
+Enemy showing 0 x 418 enemyindex 2
+10
+Enemy showing 1 x 658 enemyindex 2
+10
+Enemy showing 2 x 944 enemyindex 2
+10
+Enemy showing 0 x 408 enemyindex 0
+10
+Enemy showing 1 x 648 enemyindex 0
+10
+Enemy showing 2 x 934 enemyindex 0
+10
+Enemy showing 0 x 398 enemyindex 1
+10
+Enemy showing 1 x 638 enemyindex 1
+10
+Enemy showing 2 x 924 enemyindex 1
+10
+Enemy showing 0 x 388 enemyindex 2
+10
+Enemy showing 1 x 628 enemyindex 2
+10
+Enemy showing 2 x 914 enemyindex 2
+10
+Enemy showing 0 x 378 enemyindex 0
+10
+Enemy showing 1 x 618 enemyindex 0
+10
+Enemy showing 2 x 904 enemyindex 0
+10
+Enemy showing 0 x 368 enemyindex 1
+10
+Enemy showing 1 x 608 enemyindex 1
+10
+Enemy showing 2 x 894 enemyindex 1
+10
+Enemy showing 0 x 358 enemyindex 2
+10
+Enemy showing 1 x 598 enemyindex 2
+10
+Enemy showing 2 x 884 enemyindex 2
+10
+Enemy showing 0 x 348 enemyindex 0
+10
+Enemy showing 1 x 588 enemyindex 0
+10
+Enemy showing 2 x 874 enemyindex 0
+10
+Enemy showing 0 x 338 enemyindex 1
+10
+Enemy showing 1 x 578 enemyindex 1
+10
+Enemy showing 2 x 864 enemyindex 1
+10
+Enemy showing 0 x 328 enemyindex 2
+10
+Enemy showing 1 x 568 enemyindex 2
+10
+Enemy showing 2 x 854 enemyindex 2
+10
+Enemy showing 0 x 318 enemyindex 0
+10
+Enemy showing 1 x 558 enemyindex 0
+10
+Enemy showing 2 x 844 enemyindex 0
+10
+Enemy showing 0 x 308 enemyindex 1
+10
+Enemy showing 1 x 548 enemyindex 1
+10
+Enemy showing 2 x 834 enemyindex 1
+10
+Enemy showing 0 x 298 enemyindex 2
+10
+Enemy showing 1 x 538 enemyindex 2
+10
+Enemy showing 2 x 824 enemyindex 2
+10
+Enemy showing 0 x 288 enemyindex 0
+10
+Enemy showing 1 x 528 enemyindex 0
+10
+Enemy showing 2 x 814 enemyindex 0
+10
+Enemy showing 0 x 278 enemyindex 1
+10
+Enemy showing 1 x 518 enemyindex 1
+10
+Enemy showing 2 x 804 enemyindex 1
+10
+Enemy showing 0 x 268 enemyindex 2
+10
+Enemy showing 1 x 508 enemyindex 2
+10
+Enemy showing 2 x 794 enemyindex 2
+10
+Enemy showing 0 x 258 enemyindex 0
+10
+Enemy showing 1 x 498 enemyindex 0
+10
+Enemy showing 2 x 784 enemyindex 0
+10
+Enemy showing 0 x 248 enemyindex 1
+10
+Enemy showing 1 x 488 enemyindex 1
+10
+Enemy showing 2 x 774 enemyindex 1
+10
+Enemy showing 0 x 238 enemyindex 2
+10
+Enemy showing 1 x 478 enemyindex 2
+10
+Enemy showing 2 x 764 enemyindex 2
+10
+Enemy showing 0 x 228 enemyindex 0
+10
+Enemy showing 1 x 468 enemyindex 0
+10
+Enemy showing 2 x 754 enemyindex 0
+10
+Enemy showing 0 x 218 enemyindex 1
+10
+Enemy showing 1 x 458 enemyindex 1
+10
+Enemy showing 2 x 744 enemyindex 1
+10
+Enemy showing 0 x 208 enemyindex 2
+10
+Enemy showing 1 x 448 enemyindex 2
+10
+Enemy showing 2 x 734 enemyindex 2
+10
+Enemy showing 0 x 198 enemyindex 0
+10
+Enemy showing 1 x 438 enemyindex 0
+10
+Enemy showing 2 x 724 enemyindex 0
+10
+Enemy showing 0 x 188 enemyindex 1
+10
+Enemy showing 1 x 428 enemyindex 1
+10
+Enemy showing 2 x 714 enemyindex 1
+10
+Enemy showing 0 x 178 enemyindex 2
+10
+Enemy showing 1 x 418 enemyindex 2
+10
+Enemy showing 2 x 704 enemyindex 2
+10
+Enemy showing 0 x 168 enemyindex 0
+10
+Enemy showing 1 x 408 enemyindex 0
+10
+Enemy showing 2 x 694 enemyindex 0
+10
+Enemy showing 0 x 158 enemyindex 1
+10
+Enemy showing 1 x 398 enemyindex 1
+10
+Enemy showing 2 x 684 enemyindex 1
+10
+Enemy showing 0 x 148 enemyindex 2
+10
+Enemy showing 1 x 388 enemyindex 2
+10
+Enemy showing 2 x 674 enemyindex 2
+10
+Enemy showing 0 x 138 enemyindex 0
+10
+Enemy showing 1 x 378 enemyindex 0
+10
+Enemy showing 2 x 664 enemyindex 0
+10
+Enemy showing 0 x 128 enemyindex 1
+11
+Enemy showing 1 x 368 enemyindex 1
+11
+Enemy showing 2 x 654 enemyindex 1
+11
+Enemy showing 0 x 118 enemyindex 2
+11
+Enemy showing 1 x 358 enemyindex 2
+11
+Enemy showing 2 x 644 enemyindex 2
+11
+Enemy showing 0 x 108 enemyindex 0
+11
+Enemy showing 1 x 348 enemyindex 0
+11
+Enemy showing 2 x 634 enemyindex 0
+11
+Enemy showing 0 x 98 enemyindex 1
+11
+Enemy showing 1 x 338 enemyindex 1
+11
+Enemy showing 2 x 624 enemyindex 1
+11
+Enemy showing 0 x 88 enemyindex 2
+11
+Enemy showing 1 x 328 enemyindex 2
+11
+Enemy showing 2 x 614 enemyindex 2
+11
+Enemy showing 1 x 318 enemyindex 0
+11
+Enemy showing 2 x 604 enemyindex 0
+11
+Enemy showing 1 x 308 enemyindex 1
+11
+Enemy showing 2 x 594 enemyindex 1
+11
+Enemy showing 1 x 298 enemyindex 2
+11
+Enemy showing 2 x 584 enemyindex 2
+11
+Enemy showing 1 x 288 enemyindex 0
+11
+Enemy showing 2 x 574 enemyindex 0
+11
+Enemy showing 1 x 278 enemyindex 1
+11
+Enemy showing 2 x 564 enemyindex 1
+11
+Enemy showing 1 x 268 enemyindex 2
+11
+Enemy showing 2 x 554 enemyindex 2
+11
+Enemy showing 1 x 258 enemyindex 0
+11
+Enemy showing 2 x 544 enemyindex 0
+11
+Enemy showing 1 x 248 enemyindex 1
+11
+Enemy showing 2 x 534 enemyindex 1
+11
+Enemy showing 1 x 238 enemyindex 2
+11
+Enemy showing 2 x 524 enemyindex 2
+11
+Enemy showing 1 x 228 enemyindex 0
+11
+Enemy showing 2 x 514 enemyindex 0
+11
+Enemy showing 2 x 504 enemyindex 1
+11
+Enemy showing 2 x 494 enemyindex 2
+11
+Enemy showing 2 x 484 enemyindex 0
+11
+Enemy showing 2 x 474 enemyindex 1
+11
+Enemy showing 2 x 464 enemyindex 2
+11
+Enemy showing 2 x 454 enemyindex 0
+11
+Enemy showing 2 x 444 enemyindex 1
+11
+Enemy showing 2 x 434 enemyindex 2
+11
+Enemy showing 2 x 424 enemyindex 0
+11
+Enemy showing 2 x 414 enemyindex 1
+11
+Enemy showing 2 x 404 enemyindex 2
+11
+Enemy showing 2 x 394 enemyindex 0
+11
+Enemy showing 2 x 384 enemyindex 1
+11
+Enemy showing 0 x 1469 enemyindex 2
+12
+Enemy showing 1 x 1679 enemyindex 2
+12
+Enemy showing 2 x 284 enemyindex 2
+12
+Enemy showing 0 x 1459 enemyindex 0
+12
+Enemy showing 1 x 1669 enemyindex 0
+12
+Enemy showing 0 x 1449 enemyindex 1
+12
+Enemy showing 1 x 1659 enemyindex 1
+12
+Enemy showing 0 x 1439 enemyindex 2
+12
+Enemy showing 1 x 1649 enemyindex 2
+12
+Enemy showing 0 x 1429 enemyindex 0
+12
+Enemy showing 1 x 1639 enemyindex 0
+12
+Enemy showing 0 x 1419 enemyindex 1
+12
+Enemy showing 1 x 1629 enemyindex 1
+12
+Enemy showing 0 x 1409 enemyindex 2
+12
+Enemy showing 1 x 1619 enemyindex 2
+12
+Enemy showing 0 x 1399 enemyindex 0
+12
+Enemy showing 1 x 1609 enemyindex 0
+12
+Enemy showing 0 x 1389 enemyindex 1
+12
+Enemy showing 1 x 1599 enemyindex 1
+12
+Enemy showing 0 x 1379 enemyindex 2
+12
+Enemy showing 1 x 1589 enemyindex 2
+12
+Enemy showing 0 x 1369 enemyindex 0
+12
+Enemy showing 1 x 1579 enemyindex 0
+12
+Enemy showing 0 x 1359 enemyindex 1
+12
+Enemy showing 1 x 1569 enemyindex 1
+12
+Enemy showing 0 x 1349 enemyindex 2
+12
+Enemy showing 1 x 1559 enemyindex 2
+12
+Enemy showing 0 x 1339 enemyindex 0
+12
+Enemy showing 1 x 1549 enemyindex 0
+12
+Enemy showing 0 x 1329 enemyindex 1
+12
+Enemy showing 1 x 1539 enemyindex 1
+12
+Enemy showing 0 x 1319 enemyindex 2
+12
+Enemy showing 1 x 1529 enemyindex 2
+12
+Enemy showing 0 x 1309 enemyindex 0
+12
+Enemy showing 1 x 1519 enemyindex 0
+12
+Enemy showing 0 x 1299 enemyindex 1
+12
+Enemy showing 1 x 1509 enemyindex 1
+12
+Enemy showing 0 x 1289 enemyindex 2
+12
+Enemy showing 1 x 1499 enemyindex 2
+12
+Enemy showing 0 x 1279 enemyindex 0
+12
+Enemy showing 1 x 1489 enemyindex 0
+12
+Enemy showing 0 x 1269 enemyindex 1
+12
+Enemy showing 1 x 1479 enemyindex 1
+12
+Enemy showing 0 x 1259 enemyindex 2
+12
+Enemy showing 1 x 1469 enemyindex 2
+12
+Enemy showing 0 x 1249 enemyindex 0
+12
+Enemy showing 1 x 1459 enemyindex 0
+12
+Enemy showing 0 x 1239 enemyindex 1
+12
+Enemy showing 1 x 1449 enemyindex 1
+12
+Enemy showing 0 x 1229 enemyindex 2
+12
+Enemy showing 1 x 1439 enemyindex 2
+12
+Enemy showing 0 x 1219 enemyindex 0
+13
+Enemy showing 1 x 1429 enemyindex 0
+13
+Enemy showing 0 x 1209 enemyindex 1
+13
+Enemy showing 1 x 1419 enemyindex 1
+13
+Enemy showing 0 x 1199 enemyindex 2
+13
+Enemy showing 1 x 1409 enemyindex 2
+13
+Enemy showing 0 x 1189 enemyindex 0
+13
+Enemy showing 1 x 1399 enemyindex 0
+13
+Enemy showing 0 x 1179 enemyindex 1
+13
+Enemy showing 1 x 1389 enemyindex 1
+13
+Enemy showing 2 x 1547 enemyindex 1
+13
+Enemy showing 0 x 1169 enemyindex 2
+13
+Enemy showing 1 x 1379 enemyindex 2
+13
+Enemy showing 2 x 1537 enemyindex 2
+13
+Enemy showing 0 x 1159 enemyindex 0
+13
+Enemy showing 1 x 1369 enemyindex 0
+13
+Enemy showing 2 x 1527 enemyindex 0
+13
+Enemy showing 0 x 1149 enemyindex 1
+13
+Enemy showing 1 x 1359 enemyindex 1
+13
+Enemy showing 2 x 1517 enemyindex 1
+13
+Enemy showing 0 x 1139 enemyindex 2
+13
+Enemy showing 1 x 1349 enemyindex 2
+13
+Enemy showing 2 x 1507 enemyindex 2
+13
+Enemy showing 0 x 1129 enemyindex 0
+13
+Enemy showing 1 x 1339 enemyindex 0
+13
+Enemy showing 2 x 1497 enemyindex 0
+13
+Enemy showing 0 x 1119 enemyindex 1
+13
+Enemy showing 1 x 1329 enemyindex 1
+13
+Enemy showing 2 x 1487 enemyindex 1
+13
+Enemy showing 0 x 1109 enemyindex 2
+13
+Enemy showing 1 x 1319 enemyindex 2
+13
+Enemy showing 2 x 1477 enemyindex 2
+13
+Enemy showing 0 x 1099 enemyindex 0
+13
+Enemy showing 1 x 1309 enemyindex 0
+13
+Enemy showing 2 x 1467 enemyindex 0
+13
+Enemy showing 0 x 1089 enemyindex 1
+13
+Enemy showing 1 x 1299 enemyindex 1
+13
+Enemy showing 2 x 1457 enemyindex 1
+13
+Enemy showing 0 x 1079 enemyindex 2
+13
+Enemy showing 1 x 1289 enemyindex 2
+13
+Enemy showing 2 x 1447 enemyindex 2
+13
+Enemy showing 0 x 1069 enemyindex 0
+13
+Enemy showing 1 x 1279 enemyindex 0
+13
+Enemy showing 2 x 1437 enemyindex 0
+13
+Enemy showing 0 x 1059 enemyindex 1
+13
+Enemy showing 1 x 1269 enemyindex 1
+13
+Enemy showing 2 x 1427 enemyindex 1
+13
+Enemy showing 0 x 1049 enemyindex 2
+13
+Enemy showing 1 x 1259 enemyindex 2
+13
+Enemy showing 2 x 1417 enemyindex 2
+13
+Enemy showing 0 x 1039 enemyindex 0
+13
+Enemy showing 1 x 1249 enemyindex 0
+13
+Enemy showing 2 x 1407 enemyindex 0
+13
+Enemy showing 0 x 1029 enemyindex 1
+13
+Enemy showing 1 x 1239 enemyindex 1
+13
+Enemy showing 2 x 1397 enemyindex 1
+13
+Enemy showing 0 x 1019 enemyindex 2
+13
+Enemy showing 1 x 1229 enemyindex 2
+13
+Enemy showing 2 x 1387 enemyindex 2
+13
+Enemy showing 0 x 1009 enemyindex 0
+13
+Enemy showing 1 x 1219 enemyindex 0
+13
+Enemy showing 2 x 1377 enemyindex 0
+13
+Enemy showing 0 x 999 enemyindex 1
+13
+Enemy showing 1 x 1209 enemyindex 1
+13
+Enemy showing 2 x 1367 enemyindex 1
+13
+Enemy showing 0 x 989 enemyindex 2
+13
+Enemy showing 1 x 1199 enemyindex 2
+13
+Enemy showing 2 x 1357 enemyindex 2
+13
+Enemy showing 0 x 979 enemyindex 0
+13
+Enemy showing 1 x 1189 enemyindex 0
+13
+Enemy showing 2 x 1347 enemyindex 0
+13
+Enemy showing 0 x 969 enemyindex 1
+13
+Enemy showing 1 x 1179 enemyindex 1
+13
+Enemy showing 2 x 1337 enemyindex 1
+13
+Enemy showing 0 x 959 enemyindex 2
+13
+Enemy showing 1 x 1169 enemyindex 2
+13
+Enemy showing 2 x 1327 enemyindex 2
+13
+Enemy showing 0 x 949 enemyindex 0
+13
+Enemy showing 1 x 1159 enemyindex 0
+13
+Enemy showing 2 x 1317 enemyindex 0
+13
+Enemy showing 0 x 939 enemyindex 1
+13
+Enemy showing 1 x 1149 enemyindex 1
+13
+Enemy showing 2 x 1307 enemyindex 1
+13
+Enemy showing 0 x 929 enemyindex 2
+13
+Enemy showing 1 x 1139 enemyindex 2
+13
+Enemy showing 2 x 1297 enemyindex 2
+13
+Enemy showing 0 x 919 enemyindex 0
+13
+Enemy showing 1 x 1129 enemyindex 0
+13
+Enemy showing 2 x 1287 enemyindex 0
+13
+Enemy showing 0 x 909 enemyindex 1
+14
+Enemy showing 1 x 1119 enemyindex 1
+14
+Enemy showing 2 x 1277 enemyindex 1
+14
+Enemy showing 0 x 899 enemyindex 2
+14
+Enemy showing 1 x 1109 enemyindex 2
+14
+Enemy showing 2 x 1267 enemyindex 2
+14
+Enemy showing 0 x 889 enemyindex 0
+14
+Enemy showing 1 x 1099 enemyindex 0
+14
+Enemy showing 2 x 1257 enemyindex 0
+14
+Enemy showing 0 x 879 enemyindex 1
+14
+Enemy showing 1 x 1089 enemyindex 1
+14
+Enemy showing 2 x 1247 enemyindex 1
+14
+Enemy showing 0 x 869 enemyindex 2
+14
+Enemy showing 1 x 1079 enemyindex 2
+14
+Enemy showing 2 x 1237 enemyindex 2
+14
+Enemy showing 0 x 859 enemyindex 0
+14
+Enemy showing 1 x 1069 enemyindex 0
+14
+Enemy showing 2 x 1227 enemyindex 0
+14
+Enemy showing 0 x 849 enemyindex 1
+14
+Enemy showing 1 x 1059 enemyindex 1
+14
+Enemy showing 2 x 1217 enemyindex 1
+14
+Enemy showing 0 x 839 enemyindex 2
+14
+Enemy showing 1 x 1049 enemyindex 2
+14
+Enemy showing 2 x 1207 enemyindex 2
+14
+Enemy showing 0 x 829 enemyindex 0
+14
+Enemy showing 1 x 1039 enemyindex 0
+14
+Enemy showing 2 x 1197 enemyindex 0
+14
+Enemy showing 0 x 819 enemyindex 1
+14
+Enemy showing 1 x 1029 enemyindex 1
+14
+Enemy showing 2 x 1187 enemyindex 1
+14
+Enemy showing 0 x 809 enemyindex 2
+14
+Enemy showing 1 x 1019 enemyindex 2
+14
+Enemy showing 2 x 1177 enemyindex 2
+14
+Enemy showing 0 x 799 enemyindex 0
+14
+Enemy showing 1 x 1009 enemyindex 0
+14
+Enemy showing 2 x 1167 enemyindex 0
+14
+Enemy showing 0 x 789 enemyindex 1
+14
+Enemy showing 1 x 999 enemyindex 1
+14
+Enemy showing 2 x 1157 enemyindex 1
+14
+Enemy showing 1 x 989 enemyindex 2
+14
+Enemy showing 2 x 1147 enemyindex 2
+14
+Enemy showing 1 x 979 enemyindex 0
+14
+Enemy showing 2 x 1137 enemyindex 0
+14
+Enemy showing 1 x 969 enemyindex 1
+14
+Enemy showing 2 x 1127 enemyindex 1
+14
+Enemy showing 1 x 959 enemyindex 2
+14
+Enemy showing 2 x 1117 enemyindex 2
+14
+Enemy showing 1 x 949 enemyindex 0
+14
+Enemy showing 2 x 1107 enemyindex 0
+14
+Enemy showing 1 x 939 enemyindex 1
+14
+Enemy showing 2 x 1097 enemyindex 1
+14
+Enemy showing 1 x 929 enemyindex 2
+14
+Enemy showing 2 x 1087 enemyindex 2
+14
+Enemy showing 1 x 919 enemyindex 0
+14
+Enemy showing 2 x 1077 enemyindex 0
+14
+Enemy showing 1 x 909 enemyindex 1
+14
+Enemy showing 2 x 1067 enemyindex 1
+14
+Enemy showing 1 x 899 enemyindex 2
+14
+Enemy showing 2 x 1057 enemyindex 2
+14
+Enemy showing 1 x 889 enemyindex 0
+14
+Enemy showing 2 x 1047 enemyindex 0
+14
+Enemy showing 2 x 1037 enemyindex 1
+14
+Enemy showing 2 x 1027 enemyindex 2
+14
+Enemy showing 2 x 1017 enemyindex 0
+14
+Enemy showing 2 x 1007 enemyindex 1
+14
+Enemy showing 2 x 997 enemyindex 2
+14
+Enemy showing 2 x 987 enemyindex 0
+15
+Enemy showing 2 x 977 enemyindex 1
+15
+Enemy showing 2 x 967 enemyindex 2
+15
+Enemy showing 0 x 1446 enemyindex 2
+17
+Enemy showing 1 x 1694 enemyindex 2
+17
+Enemy showing 2 x 157 enemyindex 2
+17
+Enemy showing 0 x 1436 enemyindex 0
+17
+Enemy showing 1 x 1684 enemyindex 0
+17
+Enemy showing 2 x 147 enemyindex 0
+17
+Enemy showing 0 x 1426 enemyindex 1
+17
+Enemy showing 1 x 1674 enemyindex 1
+17
+Enemy showing 2 x 137 enemyindex 1
+17
+Enemy showing 0 x 1416 enemyindex 2
+17
+Enemy showing 1 x 1664 enemyindex 2
+17
+Enemy showing 2 x 127 enemyindex 2
+17
+Enemy showing 0 x 1406 enemyindex 0
+17
+Enemy showing 1 x 1654 enemyindex 0
+17
+Enemy showing 2 x 117 enemyindex 0
+17
+Enemy showing 0 x 1396 enemyindex 1
+17
+Enemy showing 1 x 1644 enemyindex 1
+17
+Enemy showing 2 x 107 enemyindex 1
+17
+Enemy showing 0 x 1386 enemyindex 2
+17
+Enemy showing 1 x 1634 enemyindex 2
+17
+Enemy showing 2 x 97 enemyindex 2
+17
+Enemy showing 0 x 1376 enemyindex 0
+17
+Enemy showing 1 x 1624 enemyindex 0
+17
+Enemy showing 2 x 87 enemyindex 0
+17
+Enemy showing 0 x 1366 enemyindex 1
+18
+Enemy showing 1 x 1614 enemyindex 1
+18
+Enemy showing 2 x 77 enemyindex 1
+18
+Enemy showing 0 x 1356 enemyindex 2
+18
+Enemy showing 1 x 1604 enemyindex 2
+18
+Enemy showing 2 x 67 enemyindex 2
+18
+Enemy showing 0 x 1346 enemyindex 0
+18
+Enemy showing 1 x 1594 enemyindex 0
+18
+Enemy showing 0 x 1336 enemyindex 1
+18
+Enemy showing 1 x 1584 enemyindex 1
+18
+Enemy showing 0 x 1326 enemyindex 2
+18
+Enemy showing 1 x 1574 enemyindex 2
+18
+Enemy showing 0 x 1316 enemyindex 0
+18
+Enemy showing 1 x 1564 enemyindex 0
+18
+Enemy showing 0 x 1306 enemyindex 1
+18
+Enemy showing 1 x 1554 enemyindex 1
+18
+Enemy showing 0 x 1296 enemyindex 2
+18
+Enemy showing 1 x 1544 enemyindex 2
+18
+Enemy showing 0 x 1286 enemyindex 0
+18
+Enemy showing 1 x 1534 enemyindex 0
+18
+Enemy showing 2 x 1791 enemyindex 0
+18
+Enemy showing 0 x 1276 enemyindex 1
+18
+Enemy showing 1 x 1524 enemyindex 1
+18
+Enemy showing 2 x 1781 enemyindex 1
+18
+Enemy showing 0 x 1266 enemyindex 2
+18
+Enemy showing 1 x 1514 enemyindex 2
+18
+Enemy showing 2 x 1771 enemyindex 2
+18
+Enemy showing 0 x 1256 enemyindex 0
+18
+Enemy showing 1 x 1504 enemyindex 0
+18
+Enemy showing 2 x 1761 enemyindex 0
+18
+Enemy showing 0 x 1246 enemyindex 1
+18
+Enemy showing 1 x 1494 enemyindex 1
+18
+Enemy showing 2 x 1751 enemyindex 1
+18
+Enemy showing 0 x 1236 enemyindex 2
+18
+Enemy showing 1 x 1484 enemyindex 2
+18
+Enemy showing 2 x 1741 enemyindex 2
+18
+Enemy showing 0 x 1226 enemyindex 0
+18
+Enemy showing 1 x 1474 enemyindex 0
+18
+Enemy showing 2 x 1731 enemyindex 0
+18
+Enemy showing 0 x 1216 enemyindex 1
+18
+Enemy showing 1 x 1464 enemyindex 1
+18
+Enemy showing 2 x 1721 enemyindex 1
+18
+Enemy showing 0 x 1206 enemyindex 2
+18
+Enemy showing 1 x 1454 enemyindex 2
+18
+Enemy showing 2 x 1711 enemyindex 2
+18
+Enemy showing 0 x 1196 enemyindex 0
+18
+Enemy showing 1 x 1444 enemyindex 0
+18
+Enemy showing 2 x 1701 enemyindex 0
+18
+Enemy showing 0 x 1186 enemyindex 1
+18
+Enemy showing 1 x 1434 enemyindex 1
+18
+Enemy showing 2 x 1691 enemyindex 1
+18
+Enemy showing 0 x 1176 enemyindex 2
+18
+Enemy showing 1 x 1424 enemyindex 2
+18
+Enemy showing 2 x 1681 enemyindex 2
+18
+Enemy showing 0 x 1166 enemyindex 0
+18
+Enemy showing 1 x 1414 enemyindex 0
+18
+Enemy showing 2 x 1671 enemyindex 0
+18
+Enemy showing 0 x 1156 enemyindex 1
+18
+Enemy showing 1 x 1404 enemyindex 1
+18
+Enemy showing 2 x 1661 enemyindex 1
+18
+Enemy showing 0 x 1146 enemyindex 2
+18
+Enemy showing 1 x 1394 enemyindex 2
+18
+Enemy showing 2 x 1651 enemyindex 2
+18
+Enemy showing 0 x 1136 enemyindex 0
+18
+Enemy showing 1 x 1384 enemyindex 0
+18
+Enemy showing 2 x 1641 enemyindex 0
+18
+Enemy showing 0 x 1126 enemyindex 1
+18
+Enemy showing 1 x 1374 enemyindex 1
+18
+Enemy showing 2 x 1631 enemyindex 1
+18
+Enemy showing 0 x 1116 enemyindex 2
+18
+Enemy showing 1 x 1364 enemyindex 2
+18
+Enemy showing 2 x 1621 enemyindex 2
+18
+Enemy showing 0 x 1106 enemyindex 0
+18
+Enemy showing 1 x 1354 enemyindex 0
+18
+Enemy showing 2 x 1611 enemyindex 0
+18
+Enemy showing 0 x 1096 enemyindex 1
+18
+Enemy showing 1 x 1344 enemyindex 1
+18
+Enemy showing 2 x 1601 enemyindex 1
+18
+Enemy showing 0 x 1086 enemyindex 2
+19
+Enemy showing 1 x 1334 enemyindex 2
+19
+Enemy showing 2 x 1591 enemyindex 2
+19
+Enemy showing 0 x 1076 enemyindex 0
+19
+Enemy showing 1 x 1324 enemyindex 0
+19
+Enemy showing 2 x 1581 enemyindex 0
+19
+Enemy showing 0 x 1066 enemyindex 1
+19
+Enemy showing 1 x 1314 enemyindex 1
+19
+Enemy showing 2 x 1571 enemyindex 1
+19
+Enemy showing 0 x 1056 enemyindex 2
+19
+Enemy showing 1 x 1304 enemyindex 2
+19
+Enemy showing 2 x 1561 enemyindex 2
+19
+Enemy showing 0 x 1046 enemyindex 0
+19
+Enemy showing 1 x 1294 enemyindex 0
+19
+Enemy showing 2 x 1551 enemyindex 0
+19
+Enemy showing 0 x 1036 enemyindex 1
+19
+Enemy showing 1 x 1284 enemyindex 1
+19
+Enemy showing 2 x 1541 enemyindex 1
+19
+Enemy showing 0 x 1026 enemyindex 2
+19
+Enemy showing 1 x 1274 enemyindex 2
+19
+Enemy showing 2 x 1531 enemyindex 2
+19
+Enemy showing 0 x 1016 enemyindex 0
+19
+Enemy showing 1 x 1264 enemyindex 0
+19
+Enemy showing 2 x 1521 enemyindex 0
+19
+Enemy showing 0 x 1006 enemyindex 1
+19
+Enemy showing 1 x 1254 enemyindex 1
+19
+Enemy showing 2 x 1511 enemyindex 1
+19
+Enemy showing 0 x 996 enemyindex 2
+19
+Enemy showing 1 x 1244 enemyindex 2
+19
+Enemy showing 2 x 1501 enemyindex 2
+19
+Enemy showing 0 x 986 enemyindex 0
+19
+Enemy showing 1 x 1234 enemyindex 0
+19
+Enemy showing 2 x 1491 enemyindex 0
+19
+Enemy showing 0 x 976 enemyindex 1
+19
+Enemy showing 1 x 1224 enemyindex 1
+19
+Enemy showing 2 x 1481 enemyindex 1
+19
+Enemy showing 0 x 966 enemyindex 2
+19
+Enemy showing 1 x 1214 enemyindex 2
+19
+Enemy showing 2 x 1471 enemyindex 2
+19
+Enemy showing 0 x 956 enemyindex 0
+19
+Enemy showing 1 x 1204 enemyindex 0
+19
+Enemy showing 2 x 1461 enemyindex 0
+19
+Enemy showing 0 x 946 enemyindex 1
+19
+Enemy showing 1 x 1194 enemyindex 1
+19
+Enemy showing 2 x 1451 enemyindex 1
+19
+Enemy showing 0 x 936 enemyindex 2
+19
+Enemy showing 1 x 1184 enemyindex 2
+19
+Enemy showing 2 x 1441 enemyindex 2
+19
+Enemy showing 0 x 926 enemyindex 0
+19
+Enemy showing 1 x 1174 enemyindex 0
+19
+Enemy showing 2 x 1431 enemyindex 0
+19
+Enemy showing 0 x 916 enemyindex 1
+19
+Enemy showing 1 x 1164 enemyindex 1
+19
+Enemy showing 2 x 1421 enemyindex 1
+19
+Enemy showing 0 x 906 enemyindex 2
+19
+Enemy showing 1 x 1154 enemyindex 2
+19
+Enemy showing 2 x 1411 enemyindex 2
+19
+Enemy showing 0 x 896 enemyindex 0
+19
+Enemy showing 1 x 1144 enemyindex 0
+19
+Enemy showing 2 x 1401 enemyindex 0
+19
+Enemy showing 0 x 886 enemyindex 1
+19
+Enemy showing 1 x 1134 enemyindex 1
+19
+Enemy showing 2 x 1391 enemyindex 1
+19
+Enemy showing 0 x 876 enemyindex 2
+19
+Enemy showing 1 x 1124 enemyindex 2
+19
+Enemy showing 2 x 1381 enemyindex 2
+19
+Enemy showing 0 x 866 enemyindex 0
+19
+Enemy showing 1 x 1114 enemyindex 0
+19
+Enemy showing 2 x 1371 enemyindex 0
+19
+Enemy showing 0 x 856 enemyindex 1
+19
+Enemy showing 1 x 1104 enemyindex 1
+19
+Enemy showing 2 x 1361 enemyindex 1
+19
+Enemy showing 0 x 846 enemyindex 2
+19
+Enemy showing 1 x 1094 enemyindex 2
+19
+Enemy showing 2 x 1351 enemyindex 2
+19
+Enemy showing 0 x 836 enemyindex 0
+19
+Enemy showing 1 x 1084 enemyindex 0
+19
+Enemy showing 2 x 1341 enemyindex 0
+19
+Enemy showing 0 x 826 enemyindex 1
+19
+Enemy showing 1 x 1074 enemyindex 1
+19
+Enemy showing 2 x 1331 enemyindex 1
+19
+Enemy showing 1 x 1064 enemyindex 2
+20
+Enemy showing 2 x 1321 enemyindex 2
+20
+Enemy showing 1 x 1054 enemyindex 0
+20
+Enemy showing 2 x 1311 enemyindex 0
+20
+Enemy showing 1 x 1044 enemyindex 1
+20
+Enemy showing 2 x 1301 enemyindex 1
+20
+Enemy showing 1 x 1034 enemyindex 2
+20
+Enemy showing 2 x 1291 enemyindex 2
+20
+Enemy showing 1 x 1024 enemyindex 0
+20
+Enemy showing 2 x 1281 enemyindex 0
+20
+Enemy showing 1 x 1014 enemyindex 1
+20
+Enemy showing 2 x 1271 enemyindex 1
+20
+Enemy showing 1 x 1004 enemyindex 2
+20
+Enemy showing 2 x 1261 enemyindex 2
+20
+Enemy showing 1 x 994 enemyindex 0
+20
+Enemy showing 2 x 1251 enemyindex 0
+20
+Enemy showing 1 x 984 enemyindex 1
+20
+Enemy showing 2 x 1241 enemyindex 1
+20
+Enemy showing 1 x 974 enemyindex 2
+20
+Enemy showing 2 x 1231 enemyindex 2
+20
+Enemy showing 1 x 964 enemyindex 0
+20
+Enemy showing 2 x 1221 enemyindex 0
+20
+Enemy showing 1 x 954 enemyindex 1
+20
+Enemy showing 2 x 1211 enemyindex 1
+20
+Enemy showing 2 x 1201 enemyindex 2
+20
+Enemy showing 2 x 1191 enemyindex 0
+20
+Enemy showing 2 x 1181 enemyindex 1
+20
+Enemy showing 2 x 1171 enemyindex 2
+20
+Enemy showing 2 x 1161 enemyindex 0
+20
+Enemy showing 2 x 1151 enemyindex 1
+20
+Enemy showing 2 x 1141 enemyindex 2
+20
+Enemy showing 2 x 1131 enemyindex 0
+20
+Enemy showing 2 x 1121 enemyindex 1
+20
+Enemy showing 2 x 1111 enemyindex 2
+20
+Enemy showing 2 x 1101 enemyindex 0
+20
+Enemy showing 0 x 1405 enemyindex 1
+23
+Enemy showing 1 x 1667 enemyindex 1
+23
+Enemy showing 2 x 251 enemyindex 1
+23
+Enemy showing 0 x 1395 enemyindex 2
+23
+Enemy showing 1 x 1657 enemyindex 2
+23
+Enemy showing 2 x 241 enemyindex 2
+23
+Enemy showing 0 x 1385 enemyindex 0
+23
+Enemy showing 1 x 1647 enemyindex 0
+23
+Enemy showing 2 x 231 enemyindex 0
+23
+Enemy showing 0 x 1375 enemyindex 1
+23
+Enemy showing 1 x 1637 enemyindex 1
+23
+Enemy showing 2 x 221 enemyindex 1
+23
+Enemy showing 0 x 1365 enemyindex 2
+23
+Enemy showing 1 x 1627 enemyindex 2
+23
+Enemy showing 2 x 211 enemyindex 2
+23
+Enemy showing 0 x 1355 enemyindex 0
+23
+Enemy showing 1 x 1617 enemyindex 0
+23
+Enemy showing 2 x 201 enemyindex 0
+23
+Enemy showing 0 x 1345 enemyindex 1
+23
+Enemy showing 1 x 1607 enemyindex 1
+23
+Enemy showing 2 x 191 enemyindex 1
+23
+Enemy showing 0 x 1335 enemyindex 2
+23
+Enemy showing 1 x 1597 enemyindex 2
+23
+Enemy showing 2 x 181 enemyindex 2
+23
+Enemy showing 0 x 1325 enemyindex 0
+23
+Enemy showing 1 x 1587 enemyindex 0
+23
+Enemy showing 2 x 171 enemyindex 0
+23
+Enemy showing 0 x 1315 enemyindex 1
+23
+Enemy showing 1 x 1577 enemyindex 1
+23
+Enemy showing 2 x 161 enemyindex 1
+23
+Enemy showing 0 x 1305 enemyindex 2
+23
+Enemy showing 1 x 1567 enemyindex 2
+23
+Enemy showing 2 x 151 enemyindex 2
+23
+Enemy showing 0 x 1295 enemyindex 0
+23
+Enemy showing 1 x 1557 enemyindex 0
+23
+Enemy showing 2 x 141 enemyindex 0
+23
+Enemy showing 0 x 1285 enemyindex 1
+23
+Enemy showing 1 x 1547 enemyindex 1
+23
+Enemy showing 2 x 131 enemyindex 1
+23
+Enemy showing 0 x 1275 enemyindex 2
+23
+Enemy showing 1 x 1537 enemyindex 2
+23
+Enemy showing 2 x 121 enemyindex 2
+23
+Enemy showing 0 x 1265 enemyindex 0
+23
+Enemy showing 1 x 1527 enemyindex 0
+23
+Enemy showing 2 x 111 enemyindex 0
+23
+Enemy showing 0 x 1255 enemyindex 1
+23
+Enemy showing 1 x 1517 enemyindex 1
+23
+Enemy showing 2 x 101 enemyindex 1
+23
+Enemy showing 0 x 1245 enemyindex 2
+23
+Enemy showing 1 x 1507 enemyindex 2
+23
+Enemy showing 2 x 91 enemyindex 2
+23
+Enemy showing 0 x 1235 enemyindex 0
+23
+Enemy showing 1 x 1497 enemyindex 0
+23
+Enemy showing 2 x 81 enemyindex 0
+23
+Enemy showing 0 x 1225 enemyindex 1
+23
+Enemy showing 1 x 1487 enemyindex 1
+23
+Enemy showing 2 x 71 enemyindex 1
+23
+Enemy showing 0 x 1215 enemyindex 2
+23
+Enemy showing 1 x 1477 enemyindex 2
+23
+Enemy showing 2 x 61 enemyindex 2
+23
+Enemy showing 0 x 1205 enemyindex 0
+23
+Enemy showing 1 x 1467 enemyindex 0
+23
+Enemy showing 2 x 51 enemyindex 0
+23
+Enemy showing 0 x 1195 enemyindex 1
+24
+Enemy showing 1 x 1457 enemyindex 1
+24
+Enemy showing 2 x 41 enemyindex 1
+24
+Enemy showing 0 x 1185 enemyindex 2
+24
+Enemy showing 1 x 1447 enemyindex 2
+24
+Enemy showing 2 x 31 enemyindex 2
+24
+Enemy showing 0 x 1175 enemyindex 0
+24
+Enemy showing 1 x 1437 enemyindex 0
+24
+Enemy showing 2 x 21 enemyindex 0
+24
+Enemy showing 0 x 1165 enemyindex 1
+24
+Enemy showing 1 x 1427 enemyindex 1
+24
+Enemy showing 2 x 11 enemyindex 1
+24
+Enemy showing 0 x 1155 enemyindex 2
+24
+Enemy showing 1 x 1417 enemyindex 2
+24
+Enemy showing 2 x 1 enemyindex 2
+24
+Enemy showing 0 x 1145 enemyindex 0
+24
+Enemy showing 1 x 1407 enemyindex 0
+24
+Enemy showing 2 x 1686 enemyindex 0
+24
+Enemy showing 0 x 1135 enemyindex 1
+24
+Enemy showing 1 x 1397 enemyindex 1
+24
+Enemy showing 2 x 1676 enemyindex 1
+24
+Enemy showing 0 x 1125 enemyindex 2
+24
+Enemy showing 1 x 1387 enemyindex 2
+24
+Enemy showing 2 x 1666 enemyindex 2
+24
+Enemy showing 0 x 1115 enemyindex 0
+24
+Enemy showing 1 x 1377 enemyindex 0
+24
+Enemy showing 2 x 1656 enemyindex 0
+24
+Enemy showing 0 x 1105 enemyindex 1
+24
+Enemy showing 1 x 1367 enemyindex 1
+24
+Enemy showing 2 x 1646 enemyindex 1
+24
+Enemy showing 0 x 1095 enemyindex 2
+24
+Enemy showing 1 x 1357 enemyindex 2
+24
+Enemy showing 2 x 1636 enemyindex 2
+24
+Enemy showing 0 x 1085 enemyindex 0
+24
+Enemy showing 1 x 1347 enemyindex 0
+24
+Enemy showing 2 x 1626 enemyindex 0
+24
+Enemy showing 0 x 1075 enemyindex 1
+24
+Enemy showing 1 x 1337 enemyindex 1
+24
+Enemy showing 2 x 1616 enemyindex 1
+24
+Enemy showing 0 x 1065 enemyindex 2
+24
+Enemy showing 1 x 1327 enemyindex 2
+24
+Enemy showing 2 x 1606 enemyindex 2
+24
+Enemy showing 0 x 1055 enemyindex 0
+24
+Enemy showing 1 x 1317 enemyindex 0
+24
+Enemy showing 2 x 1596 enemyindex 0
+24
+Enemy showing 0 x 1045 enemyindex 1
+24
+Enemy showing 1 x 1307 enemyindex 1
+24
+Enemy showing 2 x 1586 enemyindex 1
+24
+Enemy showing 0 x 1035 enemyindex 2
+24
+Enemy showing 1 x 1297 enemyindex 2
+24
+Enemy showing 2 x 1576 enemyindex 2
+24
+Enemy showing 0 x 1025 enemyindex 0
+24
+Enemy showing 1 x 1287 enemyindex 0
+24
+Enemy showing 2 x 1566 enemyindex 0
+24
+Enemy showing 0 x 1015 enemyindex 1
+24
+Enemy showing 1 x 1277 enemyindex 1
+24
+Enemy showing 2 x 1556 enemyindex 1
+24
+Enemy showing 0 x 1005 enemyindex 2
+24
+Enemy showing 1 x 1267 enemyindex 2
+24
+Enemy showing 2 x 1546 enemyindex 2
+24
+Enemy showing 0 x 995 enemyindex 0
+24
+Enemy showing 1 x 1257 enemyindex 0
+24
+Enemy showing 2 x 1536 enemyindex 0
+24
+Enemy showing 0 x 985 enemyindex 1
+24
+Enemy showing 1 x 1247 enemyindex 1
+24
+Enemy showing 2 x 1526 enemyindex 1
+24
+Enemy showing 0 x 975 enemyindex 2
+24
+Enemy showing 1 x 1237 enemyindex 2
+24
+Enemy showing 2 x 1516 enemyindex 2
+24
+Enemy showing 0 x 965 enemyindex 0
+24
+Enemy showing 1 x 1227 enemyindex 0
+24
+Enemy showing 2 x 1506 enemyindex 0
+24
+Enemy showing 0 x 955 enemyindex 1
+24
+Enemy showing 1 x 1217 enemyindex 1
+24
+Enemy showing 2 x 1496 enemyindex 1
+24
+Enemy showing 0 x 945 enemyindex 2
+24
+Enemy showing 1 x 1207 enemyindex 2
+24
+Enemy showing 2 x 1486 enemyindex 2
+24
+Enemy showing 0 x 935 enemyindex 0
+24
+Enemy showing 1 x 1197 enemyindex 0
+24
+Enemy showing 2 x 1476 enemyindex 0
+24
+Enemy showing 0 x 925 enemyindex 1
+24
+Enemy showing 1 x 1187 enemyindex 1
+24
+Enemy showing 2 x 1466 enemyindex 1
+24
+Enemy showing 0 x 915 enemyindex 2
+24
+Enemy showing 1 x 1177 enemyindex 2
+24
+Enemy showing 2 x 1456 enemyindex 2
+24
+Enemy showing 0 x 905 enemyindex 0
+24
+Enemy showing 1 x 1167 enemyindex 0
+24
+Enemy showing 2 x 1446 enemyindex 0
+24
+Enemy showing 0 x 895 enemyindex 1
+24
+Enemy showing 1 x 1157 enemyindex 1
+24
+Enemy showing 2 x 1436 enemyindex 1
+24
+Enemy showing 0 x 885 enemyindex 2
+25
+Enemy showing 1 x 1147 enemyindex 2
+25
+Enemy showing 2 x 1426 enemyindex 2
+25
+Enemy showing 0 x 875 enemyindex 0
+25
+Enemy showing 1 x 1137 enemyindex 0
+25
+Enemy showing 2 x 1416 enemyindex 0
+25
+Enemy showing 0 x 865 enemyindex 1
+25
+Enemy showing 1 x 1127 enemyindex 1
+25
+Enemy showing 2 x 1406 enemyindex 1
+25
+Enemy showing 0 x 855 enemyindex 2
+25
+Enemy showing 1 x 1117 enemyindex 2
+25
+Enemy showing 2 x 1396 enemyindex 2
+25
+Enemy showing 0 x 845 enemyindex 0
+25
+Enemy showing 1 x 1107 enemyindex 0
+25
+Enemy showing 2 x 1386 enemyindex 0
+25
+Enemy showing 0 x 835 enemyindex 1
+25
+Enemy showing 1 x 1097 enemyindex 1
+25
+Enemy showing 2 x 1376 enemyindex 1
+25
+Enemy showing 0 x 825 enemyindex 2
+25
+Enemy showing 1 x 1087 enemyindex 2
+25
+Enemy showing 2 x 1366 enemyindex 2
+25
+Enemy showing 0 x 815 enemyindex 0
+25
+Enemy showing 1 x 1077 enemyindex 0
+25
+Enemy showing 2 x 1356 enemyindex 0
+25
+Enemy showing 0 x 805 enemyindex 1
+25
+Enemy showing 1 x 1067 enemyindex 1
+25
+Enemy showing 2 x 1346 enemyindex 1
+25
+Enemy showing 0 x 795 enemyindex 2
+25
+Enemy showing 1 x 1057 enemyindex 2
+25
+Enemy showing 2 x 1336 enemyindex 2
+25
+Enemy showing 0 x 785 enemyindex 0
+25
+Enemy showing 1 x 1047 enemyindex 0
+25
+Enemy showing 2 x 1326 enemyindex 0
+25
+Enemy showing 0 x 775 enemyindex 1
+25
+Enemy showing 1 x 1037 enemyindex 1
+25
+Enemy showing 2 x 1316 enemyindex 1
+25
+Enemy showing 0 x 765 enemyindex 2
+25
+Enemy showing 1 x 1027 enemyindex 2
+25
+Enemy showing 2 x 1306 enemyindex 2
+25
+Enemy showing 0 x 755 enemyindex 0
+25
+Enemy showing 1 x 1017 enemyindex 0
+25
+Enemy showing 2 x 1296 enemyindex 0
+25
+Enemy showing 0 x 745 enemyindex 1
+25
+Enemy showing 1 x 1007 enemyindex 1
+25
+Enemy showing 2 x 1286 enemyindex 1
+25
+Enemy showing 0 x 735 enemyindex 2
+25
+Enemy showing 1 x 997 enemyindex 2
+25
+Enemy showing 2 x 1276 enemyindex 2
+25
+Enemy showing 0 x 725 enemyindex 0
+25
+Enemy showing 1 x 987 enemyindex 0
+25
+Enemy showing 2 x 1266 enemyindex 0
+25
+Enemy showing 0 x 715 enemyindex 1
+25
+Enemy showing 1 x 977 enemyindex 1
+25
+Enemy showing 2 x 1256 enemyindex 1
+25
+Enemy showing 0 x 705 enemyindex 2
+25
+Enemy showing 1 x 967 enemyindex 2
+25
+Enemy showing 2 x 1246 enemyindex 2
+25
+Enemy showing 0 x 695 enemyindex 0
+25
+Enemy showing 1 x 957 enemyindex 0
+25
+Enemy showing 2 x 1236 enemyindex 0
+25
+Enemy showing 0 x 685 enemyindex 1
+25
+Enemy showing 1 x 947 enemyindex 1
+25
+Enemy showing 2 x 1226 enemyindex 1
+25
+Enemy showing 0 x 675 enemyindex 2
+25
+Enemy showing 1 x 937 enemyindex 2
+25
+Enemy showing 2 x 1216 enemyindex 2
+25
+Enemy showing 0 x 665 enemyindex 0
+25
+Enemy showing 1 x 927 enemyindex 0
+25
+Enemy showing 2 x 1206 enemyindex 0
+25
+Enemy showing 0 x 655 enemyindex 1
+25
+Enemy showing 1 x 917 enemyindex 1
+25
+Enemy showing 2 x 1196 enemyindex 1
+25
+Enemy showing 0 x 645 enemyindex 2
+25
+Enemy showing 1 x 907 enemyindex 2
+25
+Enemy showing 2 x 1186 enemyindex 2
+25
+Enemy showing 0 x 635 enemyindex 0
+25
+Enemy showing 1 x 897 enemyindex 0
+25
+Enemy showing 2 x 1176 enemyindex 0
+25
+Enemy showing 0 x 625 enemyindex 1
+25
+Enemy showing 1 x 887 enemyindex 1
+25
+Enemy showing 2 x 1166 enemyindex 1
+25
+Enemy showing 0 x 615 enemyindex 2
+25
+Enemy showing 1 x 877 enemyindex 2
+25
+Enemy showing 2 x 1156 enemyindex 2
+25
+Enemy showing 0 x 605 enemyindex 0
+25
+Enemy showing 1 x 867 enemyindex 0
+25
+Enemy showing 2 x 1146 enemyindex 0
+25
+Enemy showing 1 x 857 enemyindex 1
+25
+Enemy showing 2 x 1136 enemyindex 1
+25
+Enemy showing 1 x 847 enemyindex 2
+26
+Enemy showing 2 x 1126 enemyindex 2
+26
+Enemy showing 1 x 837 enemyindex 0
+26
+Enemy showing 2 x 1116 enemyindex 0
+26
+Enemy showing 1 x 827 enemyindex 1
+26
+Enemy showing 2 x 1106 enemyindex 1
+26
+Enemy showing 1 x 817 enemyindex 2
+26
+Enemy showing 2 x 1096 enemyindex 2
+26
+Enemy showing 1 x 807 enemyindex 0
+26
+Enemy showing 2 x 1086 enemyindex 0
+26
+Enemy showing 1 x 797 enemyindex 1
+26
+Enemy showing 2 x 1076 enemyindex 1
+26
+Enemy showing 1 x 787 enemyindex 2
+26
+Enemy showing 2 x 1066 enemyindex 2
+26
+Enemy showing 1 x 777 enemyindex 0
+26
+Enemy showing 2 x 1056 enemyindex 0
+26
+Enemy showing 1 x 767 enemyindex 1
+26
+Enemy showing 2 x 1046 enemyindex 1
+26
+Enemy showing 1 x 757 enemyindex 2
+26
+Enemy showing 2 x 1036 enemyindex 2
+26
+Enemy showing 1 x 747 enemyindex 0
+26
+Enemy showing 2 x 1026 enemyindex 0
+26
+Enemy showing 2 x 1016 enemyindex 1
+26
+Enemy showing 2 x 1006 enemyindex 2
+26
+Enemy showing 2 x 996 enemyindex 0
+26
+Enemy showing 2 x 986 enemyindex 1
+26
+Enemy showing 2 x 976 enemyindex 2
+26
+Enemy showing 2 x 966 enemyindex 0
+26
+Enemy showing 2 x 956 enemyindex 1
+26
+Enemy showing 2 x 946 enemyindex 2
+26
+Enemy showing 2 x 936 enemyindex 0
+26
+Enemy showing 2 x 926 enemyindex 1
+26
+Enemy showing 2 x 916 enemyindex 2
+26
+Enemy showing 2 x 906 enemyindex 0
+26
+Enemy showing 2 x 896 enemyindex 1
+26
+Enemy showing 2 x 886 enemyindex 2
+26
+Enemy showing 2 x 876 enemyindex 0
+26
+Enemy showing 2 x 866 enemyindex 1
+26
+Enemy showing 0 x 2500 enemyindex 1
+27
+Enemy showing 0 x 2490 enemyindex 2
+27
+Enemy showing 0 x 2480 enemyindex 0
+27
+Enemy showing 0 x 2470 enemyindex 1
+27
+Enemy showing 0 x 2460 enemyindex 2
+27
+Enemy showing 0 x 2450 enemyindex 0
+27
+Enemy showing 0 x 2440 enemyindex 1
+28
+Enemy showing 0 x 2430 enemyindex 2
+28
+Enemy showing 0 x 2420 enemyindex 0
+28
+Enemy showing 0 x 2410 enemyindex 1
+28
+Enemy showing 0 x 2400 enemyindex 2
+28
+Enemy showing 0 x 2390 enemyindex 0
+28
+Enemy showing 0 x 2380 enemyindex 1
+28
+Enemy showing 0 x 2370 enemyindex 2
+28
+Enemy showing 0 x 2360 enemyindex 0
+28
+Enemy showing 0 x 2350 enemyindex 1
+28
+Enemy showing 0 x 2340 enemyindex 2
+28
+Enemy showing 0 x 2330 enemyindex 0
+28
+Enemy showing 0 x 2320 enemyindex 1
+28
+Enemy showing 0 x 2310 enemyindex 2
+28
+Enemy showing 0 x 2300 enemyindex 0
+28
+Enemy showing 0 x 2290 enemyindex 1
+28
+Enemy showing 0 x 2280 enemyindex 2
+28
+Enemy showing 0 x 2270 enemyindex 0
+28
+Enemy showing 0 x 2260 enemyindex 1
+28
+Enemy showing 0 x 2250 enemyindex 2
+28
+Enemy showing 0 x 2240 enemyindex 0
+28
+Enemy showing 1 x 2400 enemyindex 0
+28
+Enemy showing 2 x 276 enemyindex 0
+28
+Enemy showing 0 x 2230 enemyindex 1
+28
+Enemy showing 1 x 2390 enemyindex 1
+28
+Enemy showing 2 x 266 enemyindex 1
+28
+Enemy showing 0 x 2220 enemyindex 2
+28
+Enemy showing 1 x 2380 enemyindex 2
+28
+Enemy showing 2 x 256 enemyindex 2
+28
+Enemy showing 0 x 2210 enemyindex 0
+28
+Enemy showing 1 x 2370 enemyindex 0
+28
+Enemy showing 2 x 246 enemyindex 0
+28
+Enemy showing 0 x 2200 enemyindex 1
+28
+Enemy showing 1 x 2360 enemyindex 1
+28
+Enemy showing 2 x 236 enemyindex 1
+28
+Enemy showing 0 x 2190 enemyindex 2
+28
+Enemy showing 1 x 2350 enemyindex 2
+28
+Enemy showing 2 x 226 enemyindex 2
+28
+Enemy showing 0 x 2180 enemyindex 0
+28
+Enemy showing 1 x 2340 enemyindex 0
+28
+Enemy showing 2 x 216 enemyindex 0
+28
+Enemy showing 0 x 2170 enemyindex 1
+28
+Enemy showing 1 x 2330 enemyindex 1
+28
+Enemy showing 2 x 206 enemyindex 1
+28
+Enemy showing 0 x 2160 enemyindex 2
+28
+Enemy showing 1 x 2320 enemyindex 2
+28
+Enemy showing 2 x 196 enemyindex 2
+28
+Enemy showing 0 x 2150 enemyindex 0
+28
+Enemy showing 1 x 2310 enemyindex 0
+28
+Enemy showing 2 x 186 enemyindex 0
+28
+Enemy showing 0 x 2140 enemyindex 1
+28
+Enemy showing 1 x 2300 enemyindex 1
+28
+Enemy showing 2 x 176 enemyindex 1
+28
+Enemy showing 0 x 2130 enemyindex 2
+28
+Enemy showing 1 x 2290 enemyindex 2
+28
+Enemy showing 2 x 166 enemyindex 2
+28
+Enemy showing 0 x 2120 enemyindex 0
+29
+Enemy showing 1 x 2280 enemyindex 0
+29
+Enemy showing 2 x 156 enemyindex 0
+29
+Enemy showing 0 x 2110 enemyindex 1
+29
+Enemy showing 1 x 2270 enemyindex 1
+29
+Enemy showing 2 x 146 enemyindex 1
+29
+Enemy showing 0 x 2100 enemyindex 2
+29
+Enemy showing 1 x 2260 enemyindex 2
+29
+Enemy showing 2 x 136 enemyindex 2
+29
+Enemy showing 0 x 2090 enemyindex 0
+29
+Enemy showing 1 x 2250 enemyindex 0
+29
+Enemy showing 2 x 126 enemyindex 0
+29
+Enemy showing 0 x 2080 enemyindex 1
+29
+Enemy showing 1 x 2240 enemyindex 1
+29
+Enemy showing 2 x 116 enemyindex 1
+29
+Enemy showing 0 x 2070 enemyindex 2
+29
+Enemy showing 1 x 2230 enemyindex 2
+29
+Enemy showing 2 x 106 enemyindex 2
+29
+Enemy showing 0 x 2060 enemyindex 0
+29
+Enemy showing 1 x 2220 enemyindex 0
+29
+Enemy showing 2 x 96 enemyindex 0
+29
+Enemy showing 0 x 2050 enemyindex 1
+29
+Enemy showing 1 x 2210 enemyindex 1
+29
+Enemy showing 2 x 86 enemyindex 1
+29
+Enemy showing 0 x 2040 enemyindex 2
+29
+Enemy showing 1 x 2200 enemyindex 2
+29
+Enemy showing 2 x 76 enemyindex 2
+29
+Enemy showing 0 x 2030 enemyindex 0
+29
+Enemy showing 1 x 2190 enemyindex 0
+29
+Enemy showing 2 x 66 enemyindex 0
+29
+Enemy showing 0 x 2020 enemyindex 1
+29
+Enemy showing 1 x 2180 enemyindex 1
+29
+Enemy showing 2 x 56 enemyindex 1
+29
+Enemy showing 0 x 2010 enemyindex 2
+29
+Enemy showing 1 x 2170 enemyindex 2
+29
+Enemy showing 2 x 46 enemyindex 2
+29
+Enemy showing 0 x 2000 enemyindex 0
+29
+Enemy showing 1 x 2160 enemyindex 0
+29
+Enemy showing 2 x 36 enemyindex 0
+29
+Enemy showing 0 x 1990 enemyindex 1
+29
+Enemy showing 1 x 2150 enemyindex 1
+29
+Enemy showing 2 x 26 enemyindex 1
+29
+Enemy showing 0 x 1980 enemyindex 2
+29
+Enemy showing 1 x 2140 enemyindex 2
+29
+Enemy showing 2 x 16 enemyindex 2
+29
+Enemy showing 0 x 1970 enemyindex 0
+29
+Enemy showing 1 x 2130 enemyindex 0
+29
+Enemy showing 2 x 6 enemyindex 0
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+29
+Enemy showing 1 x 2500 enemyindex 1
+29
+Enemy showing 2 x 2500 enemyindex 1
+29
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+30
+Enemy showing 1 x 2500 enemyindex 1
+30
+Enemy showing 2 x 2500 enemyindex 1
+30
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+31
+Enemy showing 1 x 2500 enemyindex 1
+31
+Enemy showing 2 x 2500 enemyindex 1
+31
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+32
+Enemy showing 1 x 2500 enemyindex 1
+32
+Enemy showing 2 x 2500 enemyindex 1
+32
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+33
+Enemy showing 1 x 2500 enemyindex 1
+33
+Enemy showing 2 x 2500 enemyindex 1
+33
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+34
+Enemy showing 1 x 2500 enemyindex 1
+34
+Enemy showing 2 x 2500 enemyindex 1
+34
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+35
+Enemy showing 1 x 2500 enemyindex 1
+35
+Enemy showing 2 x 2500 enemyindex 1
+35
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+36
+Enemy showing 1 x 2500 enemyindex 1
+36
+Enemy showing 2 x 2500 enemyindex 1
+36
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+37
+Enemy showing 1 x 2500 enemyindex 1
+37
+Enemy showing 2 x 2500 enemyindex 1
+37
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+38
+Enemy showing 1 x 2500 enemyindex 1
+38
+Enemy showing 2 x 2500 enemyindex 1
+38
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+39
+Enemy showing 1 x 2500 enemyindex 1
+39
+Enemy showing 2 x 2500 enemyindex 1
+39
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+40
+Enemy showing 1 x 2500 enemyindex 1
+40
+Enemy showing 2 x 2500 enemyindex 1
+40
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+41
+Enemy showing 1 x 2500 enemyindex 1
+41
+Enemy showing 2 x 2500 enemyindex 1
+41
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+42
+Enemy showing 1 x 2500 enemyindex 1
+42
+Enemy showing 2 x 2500 enemyindex 1
+42
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+43
+Enemy showing 1 x 2500 enemyindex 1
+43
+Enemy showing 2 x 2500 enemyindex 1
+43
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+44
+Enemy showing 1 x 2500 enemyindex 1
+44
+Enemy showing 2 x 2500 enemyindex 1
+44
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+45
+Enemy showing 1 x 2500 enemyindex 1
+45
+Enemy showing 2 x 2500 enemyindex 1
+45
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+46
+Enemy showing 1 x 2500 enemyindex 1
+46
+Enemy showing 2 x 2500 enemyindex 1
+46
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+47
+Enemy showing 1 x 2500 enemyindex 1
+47
+Enemy showing 2 x 2500 enemyindex 1
+47
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+48
+Enemy showing 1 x 2500 enemyindex 1
+48
+Enemy showing 2 x 2500 enemyindex 1
+48
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+49
+Enemy showing 1 x 2500 enemyindex 1
+49
+Enemy showing 2 x 2500 enemyindex 1
+49
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+50
+Enemy showing 1 x 2500 enemyindex 1
+50
+Enemy showing 2 x 2500 enemyindex 1
+50
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+51
+Enemy showing 1 x 2500 enemyindex 1
+51
+Enemy showing 2 x 2500 enemyindex 1
+51
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+52
+Enemy showing 1 x 2500 enemyindex 1
+52
+Enemy showing 2 x 2500 enemyindex 1
+52
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+53
+Enemy showing 1 x 2500 enemyindex 1
+53
+Enemy showing 2 x 2500 enemyindex 1
+53
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+54
+Enemy showing 1 x 2500 enemyindex 1
+54
+Enemy showing 2 x 2500 enemyindex 1
+54
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+55
+Enemy showing 1 x 2500 enemyindex 1
+55
+Enemy showing 2 x 2500 enemyindex 1
+55
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+56
+Enemy showing 1 x 2500 enemyindex 1
+56
+Enemy showing 2 x 2500 enemyindex 1
+56
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+57
+Enemy showing 1 x 2500 enemyindex 1
+57
+Enemy showing 2 x 2500 enemyindex 1
+57
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+58
+Enemy showing 1 x 2500 enemyindex 1
+58
+Enemy showing 2 x 2500 enemyindex 1
+58
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+59
+Enemy showing 1 x 2500 enemyindex 1
+59
+Enemy showing 2 x 2500 enemyindex 1
+59
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+0
+Enemy showing 1 x 2500 enemyindex 1
+0
+Enemy showing 2 x 2500 enemyindex 1
+0
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+1
+Enemy showing 1 x 2500 enemyindex 1
+1
+Enemy showing 2 x 2500 enemyindex 1
+1
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+2
+Enemy showing 1 x 2500 enemyindex 1
+2
+Enemy showing 2 x 2500 enemyindex 1
+2
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+3
+Enemy showing 1 x 2500 enemyindex 1
+3
+Enemy showing 2 x 2500 enemyindex 1
+3
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+4
+Enemy showing 1 x 2500 enemyindex 1
+4
+Enemy showing 2 x 2500 enemyindex 1
+4
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+5
+Enemy showing 1 x 2500 enemyindex 1
+5
+Enemy showing 2 x 2500 enemyindex 1
+5
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6
+Enemy showing 0 x 1960 enemyindex 1
+6
+Enemy showing 1 x 2500 enemyindex 1
+6
+Enemy showing 2 x 2500 enemyindex 1
+6

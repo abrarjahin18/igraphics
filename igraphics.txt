@@ -1,0 +1,70 @@
+int hexaToDecimal(char a, char b)
+{
+	char d[16] = { '0', '1', '2', '3', '4', '5', '6', '7', '8',
+		'9', 'A', 'B', 'C', 'D', 'E', 'F' };
+	int number = 0, i;
+	for (i = 0; i<16; i++)
+	{
+		if (b == d[i])
+		{
+			number += i * 1;
+		}
+	}
+	for (i = 0; i<16; i++)
+	{
+		if (a == d[i])
+		{
+			number += i * 16;
+		}
+	}
+	return number;
+}
+void ijapan()
+{
+	iSetColor(255,255,255);
+	iFilledRectangle(300,300,600,400);
+	iSetColor(255,0,0);
+	iFilledCircle(600,500,120);
+	
+
+
+}
+void iGermany()
+{
+	iSetColor(192, 192, 192);
+	iFilledRectangle(100, 100, 1000, 1000);
+	iSetColor(0, 0, 0);
+	iFilledRectangle(300, 300, 300, 300);
+	iSetColor(255, 0, 0);
+	iFilledRectangle(300, 300, 300, 200);
+	iSetColor(255, 255, 0);
+	iFilledRectangle(300, 300, 300, 100);
+
+
+}
+
+void iItaly()
+{
+	iSetColor(255, 0, 0);
+	iFilledRectangle(300, 300, 300, 250);
+	iSetColor(255, 255, 255);
+	iFilledRectangle(300, 300, 200, 250);
+	iSetColor(0, 128, 0);
+	iFilledRectangle(300, 300, 100, 250);
+}
+void iMorocco()
+{
+
+	iSetColor(255, 0, 0);
+	iFilledRectangle(300, 300, 600, 400);
+	iSetColor(0, 105, 0);
+	iLine(700, 500, 519, 442);
+	iLine(700, 500, 519, 559);
+	iLine(631, 595, 519, 442);
+	iLine(519, 559, 631, 405);
+	iLine(631, 595, 631, 405);
+
+
+
+
+}
